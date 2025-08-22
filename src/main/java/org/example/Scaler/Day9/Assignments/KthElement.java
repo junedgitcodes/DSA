@@ -1,4 +1,4 @@
-package org.example.Aug01.Assignments;
+package org.example.Scaler.Day9.Assignments;
 
 import java.util.Arrays;
 

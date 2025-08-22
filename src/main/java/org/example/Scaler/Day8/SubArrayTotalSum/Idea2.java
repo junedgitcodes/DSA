@@ -1,4 +1,4 @@
-package org.example.Scaler.July30.SubArrayTotalSum;
+package org.example.Scaler.Day8.SubArrayTotalSum;
 
 public class Idea2 {
 

@@ -1,4 +1,4 @@
-package org.example.Scaler.Aug06.Class;
+package org.example.Scaler.Day11.Class;
 
 public class RowSum {
 

@@ -1,4 +1,4 @@
-package org.example.Aug01.Class;
+package org.example.Scaler.Day9.Class;
 
 import java.util.Arrays;
 

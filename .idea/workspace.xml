@@ -5,35 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6a8335-4340-4495-a219-2291335d1267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Aug01/Assignments/KthElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Aug01/Class/ArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Aug01/Class/NobelIndexDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Aug8/Class/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Arraysss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug06/Class/RowSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/July30/SubArrayTotalSum/Idea1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/July30/SubArrayTotalSum/Idea2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/July30/SubArrayTotalSum/Idea3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/carryForward/CarryForward1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/carryForward/CarryForwardOptimise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/prefixsum/EvenPsum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/prefixsum/FinalPSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/prefixsum/OptimisePrefixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/prefixsum/PSumEvenValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/prefixsum/PrefixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/prefixsum/SpecialIndices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/prefixsum/SpecialIndicesBF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/subarray/SubArray1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/PDiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/RowSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/AmazingSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/Bob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/CaseChanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/Isalnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/Idea2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LowerToUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day13/Transpose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day14/Class/AntDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Sep18/Class/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Sep18/Class/RotateBF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Aug01/Assignments/KthElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/KthElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Aug01/Class/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/ArraySorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Aug01/Class/NobelIndexDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/NobelIndexDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Aug11/Assignment/ColumnSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Aug8/Class/Convert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug06/Class/RowSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Class/RowSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/July30/SubArrayTotalSum/Idea1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/SubArrayTotalSum/Idea1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/July30/SubArrayTotalSum/Idea2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/SubArrayTotalSum/Idea2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/July30/SubArrayTotalSum/Idea3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/SubArrayTotalSum/Idea3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,21 +68,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.KthElement">
-    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Aug01.Class.ArraySorting" />
+}]]></component>
+  <component name="RunManager" selected="Application.RotateBF">
+    <configuration name="AmazingSubarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Assignments.AmazingSubarrays" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Aug01.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day12.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Aug8.Class.Convert" />
+    <configuration name="Bob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Assignments.Bob" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Aug8.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day12.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Aug01.Assignments.KthElement" />
+    <configuration name="Isalnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Assignments.Isalnum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Aug01.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day12.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NobelIndexDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Aug01.Class.NobelIndexDuplicate" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Sep18.Class.Reverse" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Aug01.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Sep18.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RowSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Aug06.Class.RowSum" />
+    <configuration name="RotateBF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Sep18.Class.RotateBF" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Aug06.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Sep18.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KthElement" />
-        <item itemvalue="Application.NobelIndexDuplicate" />
-        <item itemvalue="Application.ArraySorting" />
-        <item itemvalue="Application.Convert" />
-        <item itemvalue="Application.RowSum" />
+        <item itemvalue="Application.RotateBF" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.AmazingSubarrays" />
+        <item itemvalue="Application.Isalnum" />
+        <item itemvalue="Application.Bob" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,65 @@
       <option name="presentableId" value="Default" />
       <updated>1743122873177</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Scaler Class notes and assisgnments">
+      <created>1755004330135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755004330135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Scaler Class notes and assisgnments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assisgnments" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
