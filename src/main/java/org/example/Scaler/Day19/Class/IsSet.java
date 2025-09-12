@@ -2,7 +2,7 @@ package org.example.Scaler.Day19.Class;
 
 public class IsSet {
     public static void main(String[] args) {
-        boolean result = checkIthSetBit(45, 4);
+        boolean result = checkIthSetBit(45, 2);
         if (result) {
             System.out.println("Nth digit is set");
         } else {
