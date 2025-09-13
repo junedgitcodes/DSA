@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6a8335-4340-4495-a219-2291335d1267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Assignments/NumberOf1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Assignments/SetBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Assignments/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Assignments/SingleNumberIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Assignments/ToggleIthBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Assignments/UnsetIthBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Class/SingleNumber1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Class/SingleNumber2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Class/UnSetIthBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day20/Assignments/FindingGoodDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day20/Assignments/NumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day20/Assignments/SingleNumberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day20/Assignments/SubArraysWithOR1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day20/Class/Boomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day20/Class/NoOfSetBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day20/Class/SubArrayOrIsZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day20/Class/UniqueinThrice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Class/IsSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Class/IsSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +58,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SingleNumberIII">
+  <component name="RunManager" selected="Application.SubArraysWithOR1">
+    <configuration name="FindingGoodDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day20.Assignments.FindingGoodDays" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Scaler.Day20.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberOf1Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day19.Assignments.NumberOf1Bits" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day20.Assignments.NumberOf1Bits" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day19.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day20.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day19.Assignments.SingleNumber" />
+    <configuration name="SingleNumberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day20.Assignments.SingleNumberII" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day19.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day20.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day19.Class.SingleNumber1" />
+    <configuration name="SubArrayOrIsZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day20.Class.SubArrayOrIsZero" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day19.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day20.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,25 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day19.Class.SingleNumber2" />
+    <configuration name="SubArraysWithOR1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day20.Assignments.SubArraysWithOR1" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day19.Class.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleNumberIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day19.Assignments.SingleNumberIII" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day19.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day20.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SingleNumberIII" />
+        <item itemvalue="Application.SubArraysWithOR1" />
+        <item itemvalue="Application.FindingGoodDays" />
+        <item itemvalue="Application.SingleNumberII" />
         <item itemvalue="Application.NumberOf1Bits" />
-        <item itemvalue="Application.SingleNumber2" />
-        <item itemvalue="Application.SingleNumber1" />
-        <item itemvalue="Application.SingleNumber" />
+        <item itemvalue="Application.SubArrayOrIsZero" />
       </list>
     </recent_temporary>
   </component>
@@ -173,14 +171,22 @@
       <option name="project" value="LOCAL" />
       <updated>1757253760340</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Scaler Class notes and assignments Day 19">
+      <created>1757687647067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757687647068</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Scaler Class notes and assisgnments" />
     <MESSAGE value="Added Scaler Class notes and assisgnments Day 2-19" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 18" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
