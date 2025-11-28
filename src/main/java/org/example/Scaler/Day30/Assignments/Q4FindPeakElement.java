@@ -1,4 +1,4 @@
-package org.example.Scaler.Day29.Assignments;
+package org.example.Scaler.Day30.Assignments;
 
 public class Q4FindPeakElement {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.Scaler.Day29.Class;
+package org.example.Scaler.Day30.Class;
 
 public class LocalMinima {
     public static void main(String[] args) {

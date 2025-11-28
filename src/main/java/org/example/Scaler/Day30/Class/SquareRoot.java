@@ -1,4 +1,4 @@
-package org.example.Scaler.Day29.Class;
+package org.example.Scaler.Day30.Class;
 
 public class SquareRoot {
     public static void main(String[] args) {
