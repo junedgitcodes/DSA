@@ -1,4 +1,4 @@
-package org.example.Scaler.Day3.Assignments;
+package org.example.Scaler.Day4.Assignments;
 
 public class Q3ArrayRotation {
     public static void main(String[] args) {

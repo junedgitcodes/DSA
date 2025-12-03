@@ -1,4 +1,4 @@
-package org.example.Scaler.Day3.Class;
+package org.example.Scaler.Day4.Class;
 
 public class Reverse {
     public static void main(String[] args) {

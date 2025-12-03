@@ -5,25 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6a8335-4340-4495-a219-2291335d1267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day27/Assignments/PartitionIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day27/Assignments/Q2FactorSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day27/Assignments/Q2FactorsSortMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day27/Assignments/Q3QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day27/Class/Comparator/ComparatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day27/Class/Comparator/FactorComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day27/Class/Pivot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day27/Class/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q2SquareRootOfInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q3SortedInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q4FindPeakElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Class/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Class/FirstOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Class/LastOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Class/LocalMinima.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Class/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q1RangeSumQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q2GenerateAllSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/CountBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/CountOptimization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/PrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/PrefixSumEvenOrOddWithRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/PrefixSumWithRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/RangeBruteForce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day25/Assignments/LongestSubstringWithoutRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day25/Assignments/LongestSubstringWithoutRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Additional/Q1TimeToEquality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q1TimeToEquality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Additional/Q2SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Additional/Q3LinearSearchMultipleOccurences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q3LinearSearchMultipleOccurences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Additional/Q4CountOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q4CountOfElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q1GoodPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q1GoodPairOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q2MaxMinOfAnArraySolvedFeatureIcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q2MaxMinOfAnArraySolvedFeatureIcon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q3ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q3ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q4ReverseInARange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q4ReverseInARange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Class/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Class/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Class/RotateBruteForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Class/RotateBruteForce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Class/Rotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Class/Rotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +70,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q4FindPeakElement">
-    <configuration name="Q1SearchForRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day29.Assignments.Q1SearchForRange" />
+  <component name="RunManager" selected="Application.Q2GenerateAllSubArrays">
+    <configuration name="CountBruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Class.CountBruteForce" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day29.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day6.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2SquareRootOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day29.Assignments.Q2SquareRootOfInteger" />
+    <configuration name="PrefixSumEvenOrOddWithRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Class.PrefixSumEvenOrOddWithRange" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day29.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day6.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3SortedInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day29.Assignments.Q3SortedInsertPosition" />
+    <configuration name="PrefixSumWithRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Class.PrefixSumWithRange" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day29.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day6.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4FindPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day29.Assignments.Q4FindPeakElement" />
+    <configuration name="Q1RangeSumQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q1RangeSumQuery" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day29.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day6.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day29.Class.SquareRoot" />
+    <configuration name="Q2GenerateAllSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q2GenerateAllSubArrays" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day29.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day6.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q4FindPeakElement" />
-        <item itemvalue="Application.Q1SearchForRange" />
-        <item itemvalue="Application.Q3SortedInsertPosition" />
-        <item itemvalue="Application.Q2SquareRootOfInteger" />
-        <item itemvalue="Application.SquareRoot" />
+        <item itemvalue="Application.Q2GenerateAllSubArrays" />
+        <item itemvalue="Application.Q1RangeSumQuery" />
+        <item itemvalue="Application.PrefixSumWithRange" />
+        <item itemvalue="Application.PrefixSumEvenOrOddWithRange" />
+        <item itemvalue="Application.CountBruteForce" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +232,21 @@
       <option name="project" value="LOCAL" />
       <updated>1759673340410</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Scaler Class notes and assignments Day 27">
+      <created>1762083914270</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762083914270</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Scaler Class notes and assignments Day 3, 30 and 31">
+      <created>1764352750615</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764352750615</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,7 +260,9 @@
     <MESSAGE value="Added Scaler Class notes and assignments Day 23 and 24" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 25" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 26" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 26" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day 27" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day 3, 30 and 31" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 3, 30 and 31" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -360,114 +378,214 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q2SquareRootOfInteger.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q2SquareRootOfInteger.java</url>
           <line>16</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q2SquareRootOfInteger.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q2SquareRootOfInteger.java</url>
           <line>18</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q2SquareRootOfInteger.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q2SquareRootOfInteger.java</url>
           <line>21</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q2SquareRootOfInteger.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q2SquareRootOfInteger.java</url>
           <line>22</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q2SquareRootOfInteger.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q2SquareRootOfInteger.java</url>
           <line>23</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q2SquareRootOfInteger.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q2SquareRootOfInteger.java</url>
           <line>24</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q2SquareRootOfInteger.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q2SquareRootOfInteger.java</url>
           <line>19</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q3SortedInsertPosition.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q3SortedInsertPosition.java</url>
           <line>14</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q3SortedInsertPosition.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q3SortedInsertPosition.java</url>
           <line>13</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q3SortedInsertPosition.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q3SortedInsertPosition.java</url>
           <line>16</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q3SortedInsertPosition.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q3SortedInsertPosition.java</url>
           <line>15</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q3SortedInsertPosition.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q3SortedInsertPosition.java</url>
           <line>18</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>21</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>25</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>26</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>29</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>28</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>30</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>31</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>32</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>33</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day29/Assignments/Q1SearchForRange.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>34</line>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,4 +1,4 @@
-package org.example.Scaler.Day3.Additional;
+package org.example.Scaler.Day4.Additional;
 
 public class Q2SecondLargest {
     public static void main(String[] args) {
