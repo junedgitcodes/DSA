@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6a8335-4340-4495-a219-2291335d1267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q1RangeSumQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q2GenerateAllSubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/CountBruteForce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/CountOptimization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/PrefixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/PrefixSumEvenOrOddWithRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/PrefixSumWithRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Class/RangeBruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Additional/Q1EquilibriumIndexOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Additional/Q2InPlacePrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q7SpecialSubsequencesAG2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q8SumOfEvenIndexedElementsInARange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Additional/Q1TimeToEquality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q1TimeToEquality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Additional/Q2SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Additional/Q3LinearSearchMultipleOccurences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q3LinearSearchMultipleOccurences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Additional/Q4CountOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q4CountOfElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q1GoodPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q1GoodPairOptimized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q2MaxMinOfAnArraySolvedFeatureIcon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q2MaxMinOfAnArraySolvedFeatureIcon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q3ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q3ArrayRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Assignments/Q4ReverseInARange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q4ReverseInARange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Class/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Class/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Class/RotateBruteForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Class/RotateBruteForce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day3/Class/Rotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Class/Rotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q2GenerateAllSubArrays">
-    <configuration name="CountBruteForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Class.CountBruteForce" />
+  <component name="RunManager" selected="Application.Q1EquilibriumIndexOfAnArray">
+    <configuration name="Q1EquilibriumIndexOfAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Additional.Q1EquilibriumIndexOfAnArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day6.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day6.Additional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixSumEvenOrOddWithRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Class.PrefixSumEvenOrOddWithRange" />
+    <configuration name="Q2InPlacePrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Additional.Q2InPlacePrefixSum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day6.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day6.Additional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,21 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixSumWithRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Class.PrefixSumWithRange" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day6.Class.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1RangeSumQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q1RangeSumQuery" />
+    <configuration name="Q6SubArrayInGivenRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q6SubArrayInGivenRange" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +95,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2GenerateAllSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q2GenerateAllSubArrays" />
+    <configuration name="Q7SpecialSubsequencesAG2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q7SpecialSubsequencesAG2" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Scaler.Day6.Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q8SumOfEvenIndexedElementsInARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q8SumOfEvenIndexedElementsInARange" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2GenerateAllSubArrays" />
-        <item itemvalue="Application.Q1RangeSumQuery" />
-        <item itemvalue="Application.PrefixSumWithRange" />
-        <item itemvalue="Application.PrefixSumEvenOrOddWithRange" />
-        <item itemvalue="Application.CountBruteForce" />
+        <item itemvalue="Application.Q1EquilibriumIndexOfAnArray" />
+        <item itemvalue="Application.Q2InPlacePrefixSum" />
+        <item itemvalue="Application.Q6SubArrayInGivenRange" />
+        <item itemvalue="Application.Q8SumOfEvenIndexedElementsInARange" />
+        <item itemvalue="Application.Q7SpecialSubsequencesAG2" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1764352750615</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added Scaler Class notes and assignments Day 4 and 6">
+      <created>1764789063197</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764789063197</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,7 +254,8 @@
     <MESSAGE value="Added Scaler Class notes and assignments Day 26" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 27" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 3, 30 and 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 3, 30 and 31" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day 4 and 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 4 and 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,6 +579,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
           <line>19</line>
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
