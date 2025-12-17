@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6a8335-4340-4495-a219-2291335d1267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Additional/Q1EquilibriumIndexOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Additional/Q2InPlacePrefixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q7SpecialSubsequencesAG2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q8SumOfEvenIndexedElementsInARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Additional/Q1BestTimeToBuyAndSellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q1ClosestMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q5SumOfOddIndexedElementsInARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q1SpecialIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q2RangeQueryEvenValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +59,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q1EquilibriumIndexOfAnArray">
-    <configuration name="Q1EquilibriumIndexOfAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Additional.Q1EquilibriumIndexOfAnArray" />
+  <component name="RunManager" selected="Application.Q1BestTimeToBuyAndSellStocks">
+    <configuration name="Q1BestTimeToBuyAndSellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day7.Additional.Q1BestTimeToBuyAndSellStocks" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day6.Additional.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day7.Additional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2InPlacePrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Additional.Q2InPlacePrefixSum" />
+    <configuration name="Q2SpecialIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day7.Assignment.Q2SpecialIndex" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day6.Additional.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day7.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6SubArrayInGivenRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q6SubArrayInGivenRange" />
+    <configuration name="Q3ClosestMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day7.Class.Q3ClosestMinMax" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day6.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day7.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q7SpecialSubsequencesAG2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q7SpecialSubsequencesAG2" />
+    <configuration name="Q3EvenNumbersInARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day7.Assignment.Q3EvenNumbersInARange" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day6.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day7.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q8SumOfEvenIndexedElementsInARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day6.Assignments.Q8SumOfEvenIndexedElementsInARange" />
+    <configuration name="Q5SumOfOddIndexedElementsInARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day7.Assignment.Q5SumOfOddIndexedElementsInARange" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day6.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day7.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1EquilibriumIndexOfAnArray" />
-        <item itemvalue="Application.Q2InPlacePrefixSum" />
-        <item itemvalue="Application.Q6SubArrayInGivenRange" />
-        <item itemvalue="Application.Q8SumOfEvenIndexedElementsInARange" />
-        <item itemvalue="Application.Q7SpecialSubsequencesAG2" />
+        <item itemvalue="Application.Q1BestTimeToBuyAndSellStocks" />
+        <item itemvalue="Application.Q5SumOfOddIndexedElementsInARange" />
+        <item itemvalue="Application.Q2SpecialIndex" />
+        <item itemvalue="Application.Q3EvenNumbersInARange" />
+        <item itemvalue="Application.Q3ClosestMinMax" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1764789063197</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added Scaler Class notes and assignments Day 6">
+      <created>1764871766128</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764871766128</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,7 +266,8 @@
     <MESSAGE value="Added Scaler Class notes and assignments Day 27" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 3, 30 and 31" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 4 and 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 4 and 6" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -481,71 +493,6 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Assignments/FactorsOfNumber.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q1GoodPairOptimized.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
           <line>12</line>
           <option name="timeStamp" value="72" />
@@ -609,6 +556,206 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java</url>
           <line>15</line>
           <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q1SpecialIndices.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q1SpecialIndices.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q1SpecialIndices.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q1SpecialIndices.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q1SpecialIndices.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q1SpecialIndices.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q1SpecialIndices.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Class/Q3ClosestMinMax.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q3EvenNumbersInARange.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day7/Assignment/Q2SpecialIndex.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="130" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

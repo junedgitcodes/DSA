@@ -13,7 +13,6 @@ public class Factors {
             if (num % i == 0) {
                 count = count + 2;
             }
-
         }
         return count;
     }
