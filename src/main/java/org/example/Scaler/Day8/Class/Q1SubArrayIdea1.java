@@ -1,6 +1,6 @@
-package org.example.Scaler.Day8.SubArrayTotalSum;
+package org.example.Scaler.Day8.Class;
 
-public class Idea1 {
+public class Q1SubArrayIdea1 {
 
     //{3,2,5}
     //calculate total sum of sub array
@@ -21,16 +21,16 @@ public class Idea1 {
     }
 
     public static int subArrayTotal(int[] arr) {
-        int result = 0;
+        int totalSum = 0;
         for (int s = 0; s < arr.length; s++) {
             for (int e = s; e < arr.length; e++) {
                 int sum = 0;
                 for (int i = s; i <= e; i++) {
-                    sum += arr[i];
+                    sum = sum + arr[i];
                 }
-                result += sum;
+                totalSum += sum;
             }
         }
-        return result;
+        return totalSum;
     }
 }
