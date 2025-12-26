@@ -3,7 +3,6 @@ package org.example.Scaler.Day4.Assignments;
 public class Q4ReverseInARange {
     public static void main(String[] args) {
         int[] A = {1, 2, 4, 6, 2, 4, 9};
-
         solve(A, 2, 3);
         for (int num : A) {
             System.out.print(num + " ");

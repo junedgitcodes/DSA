@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6a8335-4340-4495-a219-2291335d1267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Assignments/Q1SumOfAllSubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Assignments/Q2MaximumSubArrayEasy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Assignments/Q3SubArrayWithGivenSumAndLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Assignments/Q4MaximumSubArraySumOfFixedLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArraySumOptimized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q2AllSubArrayWithLengthK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q3SlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q1SumOfRows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q2ColumnWiseSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q3Diagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q4PrintDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q1KthSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q2NobleInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/SubArrayTotalSum/Idea1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/SubArrayTotalSum/Idea2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/SubArrayTotalSum/Idea3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q4ReverseInARange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q4ReverseInARange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/KthElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/ArraySorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/NobelIndexDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/NobelIndexDuplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +61,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q2MaximumSubArrayEasy">
-    <configuration name="Q1SumOfAllSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day8.Assignments.Q1SumOfAllSubArrays" />
+  <component name="RunManager" selected="Application.Q4PrintDiagonal">
+    <configuration name="Q1SumOfRows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.Q1SumOfRows" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day8.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2MaximumSubArrayEasy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day8.Assignments.Q2MaximumSubArrayEasy" />
+    <configuration name="Q2ColumnWiseSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.Q2ColumnWiseSum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day8.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3SlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day8.Class.Q3SlidingWindow" />
+    <configuration name="Q2SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day4.Additional.Q2SecondLargest" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day8.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day4.Additional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3SubArrayWithGivenSumAndLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day8.Assignments.Q3SubArrayWithGivenSumAndLength" />
+    <configuration name="Q3Diagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.Q3Diagonal" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day8.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4MaximumSubArraySumOfFixedLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day8.Assignments.Q4MaximumSubArraySumOfFixedLength" />
+    <configuration name="Q4PrintDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.Q4PrintDiagonal" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day8.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2MaximumSubArrayEasy" />
-        <item itemvalue="Application.Q4MaximumSubArraySumOfFixedLength" />
-        <item itemvalue="Application.Q3SubArrayWithGivenSumAndLength" />
-        <item itemvalue="Application.Q1SumOfAllSubArrays" />
-        <item itemvalue="Application.Q3SlidingWindow" />
+        <item itemvalue="Application.Q4PrintDiagonal" />
+        <item itemvalue="Application.Q3Diagonal" />
+        <item itemvalue="Application.Q2ColumnWiseSum" />
+        <item itemvalue="Application.Q1SumOfRows" />
+        <item itemvalue="Application.Q2SecondLargest" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1765996105387</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added Scaler Class notes and assignments Day 8">
+      <created>1766429313919</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1766429313919</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,7 +284,8 @@
     <MESSAGE value="Added Scaler Class notes and assignments Day 4 and 6" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 6" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 7" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -925,6 +934,66 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q3SlidingWindow.java</url>
           <line>12</line>
           <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q1SumOfRows.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q1SumOfRows.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q1SumOfRows.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q1SumOfRows.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q1SumOfRows.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="175" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
