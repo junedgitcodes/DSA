@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6a8335-4340-4495-a219-2291335d1267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q1SumOfRows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q2ColumnWiseSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q3Diagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q4PrintDiagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q1KthSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q2NobleInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q1LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q2AmazingSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q3IsalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q4CountOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/Q1LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/Q2StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/Q3ToggleCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/ExpandAroundCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/IsPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q4ReverseInARange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Assignments/Q4ReverseInARange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/KthElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/ArraySorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/NobelIndexDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Class/NobelIndexDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LowerToUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LowerToUpper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +62,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q4PrintDiagonal">
-    <configuration name="Q1SumOfRows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.Q1SumOfRows" />
+  <component name="RunManager" selected="Application.Q1LongestCommonPrefix">
+    <configuration name="Q1LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Additional.Q1LongestCommonPrefix" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day12.Additional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2ColumnWiseSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.Q2ColumnWiseSum" />
+    <configuration name="Q1LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Assignments.Q1LongestPalindromicSubstring" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day12.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day4.Additional.Q2SecondLargest" />
+    <configuration name="Q2AmazingSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Additional.Q2AmazingSubArrays" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day4.Additional.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day12.Additional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3Diagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.Q3Diagonal" />
+    <configuration name="Q3IsalNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Additional.Q3IsalNum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day12.Additional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4PrintDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.Q4PrintDiagonal" />
+    <configuration name="Q4CountOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Additional.Q4CountOccurrences" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Aug08LabSessionOn2DMatrix.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day12.Additional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q4PrintDiagonal" />
-        <item itemvalue="Application.Q3Diagonal" />
-        <item itemvalue="Application.Q2ColumnWiseSum" />
-        <item itemvalue="Application.Q1SumOfRows" />
-        <item itemvalue="Application.Q2SecondLargest" />
+        <item itemvalue="Application.Q1LongestCommonPrefix" />
+        <item itemvalue="Application.Q4CountOccurrences" />
+        <item itemvalue="Application.Q3IsalNum" />
+        <item itemvalue="Application.Q2AmazingSubArrays" />
+        <item itemvalue="Application.Q1LongestPalindromicSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1766429313919</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added Scaler Class notes and assignments 8 Aug">
+      <created>1766777169035</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1766777169037</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -285,7 +293,8 @@
     <MESSAGE value="Added Scaler Class notes and assignments Day 6" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 7" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 8" />
+    <MESSAGE value="Added Scaler Class notes and assignments 8 Aug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments 8 Aug" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -994,6 +1003,56 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q1SumOfRows.java</url>
           <line>16</line>
           <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q2AmazingSubArrays.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q2AmazingSubArrays.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q2AmazingSubArrays.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q2AmazingSubArrays.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q2AmazingSubArrays.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q2AmazingSubArrays.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q1LongestCommonPrefix.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q1LongestCommonPrefix.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q1LongestCommonPrefix.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q1LongestCommonPrefix.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="185" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

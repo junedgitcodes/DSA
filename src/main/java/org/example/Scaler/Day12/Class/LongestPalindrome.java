@@ -9,28 +9,31 @@ public class LongestPalindrome {
         System.out.println(result);
     }
 
-    public static boolean isPalindrome(String str, int s, int e) {
+    public static int longestSubString(String A) {
+        int ans = 1;
+        for (int i = 0; i < A.length(); i++) {
+            for (int j = i; j < A.length(); j++) {
+                if (isPalindrome(A,i,j)){
+                    ans = Math.max(ans, j-i+1);
+                }
+            }
+        }
+        return ans;
+    }
+
+    public static boolean isPalindrome(String A, int s, int e) {
         int i = s;
         int j = e;
-        while (i <= j) {
-            if (str.charAt(i) != str.charAt(j)) {
+        if (A == null || A.length() <= 1) {
+            return true;
+        }
+        while (i < j) {
+            if (A.charAt(i) != A.charAt(j)) {
                 return false;
             }
             i++;
             j--;
         }
         return true;
-    }
-
-    public static int longestSubString(String str) {
-        int ans = 1;
-        for (int i = 0; i < str.length(); i++) {
-            for (int j = i; j < str.length(); j++) {
-                if (isPalindrome(str, i, j)) {
-                    ans = max(ans, j - i + 1);
-                }
-            }
-        }
-        return ans;
     }
 }

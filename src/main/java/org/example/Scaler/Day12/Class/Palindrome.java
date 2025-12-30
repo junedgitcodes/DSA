@@ -6,11 +6,9 @@ public class Palindrome {
         String str = "anamadamspe";
         boolean result = isPalindrome(str, 3, 7);
         System.out.println(result);
-
     }
 
     public static boolean isPalindrome(String str, int s, int e) {
-
         int i = s;
         int j = e;
         while (i <= j) {
@@ -22,5 +20,4 @@ public class Palindrome {
         }
         return true;
     }
-
 }
