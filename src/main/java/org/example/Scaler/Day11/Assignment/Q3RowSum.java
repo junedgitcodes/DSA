@@ -1,11 +1,7 @@
 package org.example.Scaler.Day11.Assignment;
 
-public class ColumnSum {
-
+public class Q3RowSum {
     public static void main(String[] args) {
-        //[1,2,3,4]
-        //[5,6,7,8]
-        //[9,2,3,4]
         int[][] arr = {{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 2, 3, 4}};
         int[] result = solution(arr);
         for (int i = 0; i < result.length; i++) {
@@ -15,11 +11,11 @@ public class ColumnSum {
     }
 
     public static int[] solution(int[][] A) {
-        int[] result = new int[A[0].length];
-        for (int i = 0; i < A[0].length; i++) {
+        int[] result = new int[A.length];
+        for (int i = 0; i < A.length; i++) {
             int sum = 0;
-            for (int j = 0; j < A.length; j++) {
-                sum +=  A[j][i];
+            for (int j = 0; j < A[0].length; j++) {
+                sum += A[i][j];
             }
             result[i] = sum;
         }

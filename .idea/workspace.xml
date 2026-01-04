@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6a8335-4340-4495-a219-2291335d1267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q1LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q2AmazingSubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q3IsalNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q4CountOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/Q1LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/Q2StringOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Assignments/Q3ToggleCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/ExpandAroundCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q1AntiDiagonals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Class/Q1RowSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Class/Q2ColumnSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Class/Q3Diagonal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LongestPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LowerToUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/LowerToUpper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Class/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/PDiagonalSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q5MainDiagonalSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/RowSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q3RowSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Class/RowSum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +58,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q1LongestCommonPrefix">
-    <configuration name="Q1LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Additional.Q1LongestCommonPrefix" />
+  <component name="RunManager" selected="Application.Q1AntiDiagonals">
+    <configuration name="Q1AntiDiagonals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day11.Assignment.Q1AntiDiagonals" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day12.Additional.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day11.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Assignments.Q1LongestPalindromicSubstring" />
+    <configuration name="Q3Diagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day11.Class.Q3Diagonal" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day12.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day11.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2AmazingSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Additional.Q2AmazingSubArrays" />
+    <configuration name="Q3RowSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day11.Assignment.Q3RowSum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day12.Additional.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day11.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3IsalNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Additional.Q3IsalNum" />
+    <configuration name="Q5MainDiagonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day11.Assignment.Q5MainDiagonalSum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day12.Additional.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day11.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4CountOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day12.Additional.Q4CountOccurrences" />
+    <configuration name="org.example.Scaler.Day11.Assignment.Q2ColumnSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day11.Assignment.Q2ColumnSum" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day12.Additional.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day11.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1LongestCommonPrefix" />
-        <item itemvalue="Application.Q4CountOccurrences" />
-        <item itemvalue="Application.Q3IsalNum" />
-        <item itemvalue="Application.Q2AmazingSubArrays" />
-        <item itemvalue="Application.Q1LongestPalindromicSubstring" />
+        <item itemvalue="Application.Q1AntiDiagonals" />
+        <item itemvalue="Application.Q5MainDiagonalSum" />
+        <item itemvalue="Application.Q3RowSum" />
+        <item itemvalue="Application.org.example.Scaler.Day11.Assignment.Q2ColumnSum" />
+        <item itemvalue="Application.Q3Diagonal" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +269,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766777169037</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added Scaler Class notes and assignments Day12">
+      <created>1767119659733</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1767119659733</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added Scaler Class notes and assignments Day9">
+      <created>1767462414142</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1767462414143</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -294,48 +304,30 @@
     <MESSAGE value="Added Scaler Class notes and assignments Day 7" />
     <MESSAGE value="Added Scaler Class notes and assignments Day 8" />
     <MESSAGE value="Added Scaler Class notes and assignments 8 Aug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments 8 Aug" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day12" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
           <line>17</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
           <line>19</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/ColumnSum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
           <line>9</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -1053,6 +1045,111 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day12/Additional/Q1LongestCommonPrefix.java</url>
           <line>24</line>
           <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q3ElementsRemoval.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q3ElementsRemoval.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q3ElementsRemoval.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q3ElementsRemoval.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q3ElementsRemoval.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q3ElementsRemoval.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day9/Assignments/Q3ElementsRemoval.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q2ColumnSum.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q1AntiDiagonals.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q1AntiDiagonals.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q1AntiDiagonals.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q1AntiDiagonals.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q1AntiDiagonals.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q1AntiDiagonals.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q1AntiDiagonals.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day11/Assignment/Q1AntiDiagonals.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="206" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
