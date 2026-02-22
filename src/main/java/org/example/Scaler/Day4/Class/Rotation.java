@@ -11,6 +11,9 @@ public class Rotation {
 
     public static void rotate(int[] A, int N, int k) {
         k = k % N;
+        // reverse full string
+        // reverse string from 0 to k-1
+        //reverse the string from k to n-1
         reverse(A, N, 0, N - 1);
         reverse(A, N, 0, k - 1);
         reverse(A, N, k, N - 1);

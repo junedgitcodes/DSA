@@ -14,7 +14,6 @@ public class Q4CountOfElements {
             max = Math.max(max,num);
         }
         for (int num : A) {
-
             if (max > num) {
                 count++;
             }

@@ -3,7 +3,7 @@ package org.example.Scaler.Day4.Class;
 public class RotateBruteForce {
     public static void main(String[] args) {
         int[] A = {1, 2, 3, 4, 5};
-        rotate(A, A.length, 25);
+        rotate(A, A.length, 4);
         for (int a : A) {
             System.out.print(a + " ");
         }

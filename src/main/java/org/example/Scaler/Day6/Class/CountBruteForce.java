@@ -5,7 +5,7 @@ public class CountBruteForce {
         String s = "bcaggaag";
         System.out.println(solution(s));
     }
-
+//count ag in string
     public static int solution(String s) {
         int count = 0;
         for (int i = 0; i < s.length(); i++) {

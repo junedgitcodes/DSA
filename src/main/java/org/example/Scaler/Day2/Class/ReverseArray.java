@@ -1,12 +1,10 @@
 package org.example.Scaler.Day2.Class;
 
-import java.util.Arrays;
-
 public class ReverseArray {
     public static void main(String[] args) {
-        int [] arr = {0,1,2,3,4,5};
-        int[] result = solution(arr, arr.length,0,arr.length-1);
-        for(int i =0 ;i<result.length;i++){
+        int[] arr = {0, 1, 2, 3, 4, 5};
+        int[] result = solution(arr, arr.length, 0, arr.length - 1);
+        for (int i = 0; i < result.length; i++) {
             System.out.print(arr[i] + " ");
         }
     }
@@ -21,7 +19,6 @@ public class ReverseArray {
             i++;
             j--;
         }
-
         return arr;
     }
 }
