@@ -2,7 +2,7 @@ package org.example.Scaler.Day18.Class;
 
 public class Q4NextPermutation {
     public static void main(String[] args) {
-        int[] A = {1, 3, 5, 4, 2, 6, 0};//1354602
+        int[] A = {1, 3, 5, 4, 2, 6, 5, 4, 0};//1354602
         solve(A);
         for (int el : A) {
             System.out.print(el + " ");
@@ -24,7 +24,7 @@ public class Q4NextPermutation {
         }
         for (int i = n - 1; i > 0; i--) {
             if (A[i] > A[i - 1]) {
-                pivotIdx = i-1;
+                pivotIdx = i - 1;
                 break;
             }
         }
@@ -40,7 +40,7 @@ public class Q4NextPermutation {
             }
         }
         swap(A, pivotIdx, swapIdx);
-        reverse(A, pivotIdx+1, n - 1);
+        reverse(A, pivotIdx + 1, n - 1);
     }
 
     public static void reverse(int[] A, int s, int e) {

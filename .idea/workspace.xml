@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c6a8335-4340-4495-a219-2291335d1267" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day17/Assignments/Q1FirstMissingInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day17/Assignments/Q2SumOfAllSubmatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day17/Assignments/Q3SearchInARowWiseAndColumnWiseSortedMatrixSolvedFeatureIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day17/Class/Q1FindValueInSortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day17/Class/Q2FirstMissingPositiveInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day13/practice/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Assignments/Q1NumberOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day19/Assignments/Q2SingleNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day17/Class/SumOfSubMatricesBruteForce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day17/Class/SumOfSubMatricesBruteForce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day13/Assignments/Q1RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day13/Assignments/Q1RotateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day13/Class/Q3MaxOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day13/Class/Q3MaxOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day18/Class/Q4NextPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/Day18/Class/Q4NextPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Scaler/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Scaler/RotateArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +57,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q1FirstMissingInteger">
-    <configuration name="Q1FindValueInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day17.Class.Q1FindValueInSortedMatrix" />
+  <component name="RunManager" selected="Application.Q2SingleNumber">
+    <configuration name="Q1NumberOf1Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day19.Assignments.Q1NumberOf1Bits" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day17.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day19.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1FirstMissingInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day17.Assignments.Q1FirstMissingInteger" />
+    <configuration name="Q2SingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day19.Assignments.Q2SingleNumber" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day17.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day19.Assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2FirstMissingPositiveInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day17.Class.Q2FirstMissingPositiveInteger" />
+    <configuration name="Q4NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day18.Class.Q4NextPermutation" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day17.Class.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day18.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2SumOfAllSubmatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day17.Assignments.Q2SumOfAllSubmatrices" />
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.RotateArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day17.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q3SearchInARowWiseAndColumnWiseSortedMatrixSolvedFeatureIcon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day17.Assignments.Q3SearchInARowWiseAndColumnWiseSortedMatrixSolvedFeatureIcon" />
+    <configuration name="SingleNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Scaler.Day19.Class.SingleNumber2" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Scaler.Day17.Assignments.*" />
+          <option name="PATTERN" value="org.example.Scaler.Day19.Class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1FirstMissingInteger" />
-        <item itemvalue="Application.Q2SumOfAllSubmatrices" />
-        <item itemvalue="Application.Q3SearchInARowWiseAndColumnWiseSortedMatrixSolvedFeatureIcon" />
-        <item itemvalue="Application.Q1FindValueInSortedMatrix" />
-        <item itemvalue="Application.Q2FirstMissingPositiveInteger" />
+        <item itemvalue="Application.Q2SingleNumber" />
+        <item itemvalue="Application.Q1NumberOf1Bits" />
+        <item itemvalue="Application.SingleNumber2" />
+        <item itemvalue="Application.Q4NextPermutation" />
+        <item itemvalue="Application.RotateArray" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +303,21 @@
       <option name="project" value="LOCAL" />
       <updated>1768239249457</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added Scaler Class notes and assignments Day17">
+      <created>1768759711288</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1768759711288</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added Scaler Class notes and assignments Day 2,4,6 and 18">
+      <created>1771786281727</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1771786281727</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -329,7 +344,9 @@
     <MESSAGE value="Added Scaler Class notes and assignments Day11" />
     <MESSAGE value="Added Scaler Class notes and assignments Day13" />
     <MESSAGE value="Added Scaler Class notes and assignments Day16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day16" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day17" />
+    <MESSAGE value="Added Scaler Class notes and assignments Day 2,4,6 and 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scaler Class notes and assignments Day 2,4,6 and 18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -533,41 +550,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day30/Assignments/Q1SearchForRange.java</url>
           <line>34</line>
           <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day4/Additional/Q2SecondLargest.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day6/Assignments/Q6SubArrayInGivenRange.java</url>
@@ -895,46 +877,6 @@
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea3.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="150" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea3.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="151" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea3.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="152" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea3.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="153" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea3.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="154" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea3.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="155" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea3.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="156" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q1SubArrayIdea3.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="157" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q3SlidingWindow.java</url>
           <line>15</line>
           <option name="timeStamp" value="158" />
@@ -958,41 +900,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day8/Class/Q3SlidingWindow.java</url>
           <line>12</line>
           <option name="timeStamp" value="162" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="163" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="164" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="165" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="166" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="167" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="168" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day2/Class/Factors.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Aug08LabSessionOn2DMatrix/Q1SumOfRows.java</url>
@@ -1443,6 +1350,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day17/Assignments/Q3SearchInARowWiseAndColumnWiseSortedMatrixSolvedFeatureIcon.java</url>
           <line>24</line>
           <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Scaler/Day18/Assignments/Q2SpiralOrderMatrixII.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="263" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

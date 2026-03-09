@@ -13,14 +13,14 @@ public class Q1RotateMatrix {
     }
 
     public static int[][] solve(int[][] A) {
-        int[][] B = transpose(A);
+        A = transpose(A);
         for (int i = 0; i < A.length; i++) {
-            reverse(B[i]);
+            reverse(A[i]);
         }
-        return B;
+        return A;
     }
 
-    public static int[][] transpose(int[][] A) {
+    public static int[][]  transpose(int[][] A) {
         int n = A.length;
         int[][] result = new int[n][n];
         for (int i = 0; i < n; i++) {
@@ -31,7 +31,7 @@ public class Q1RotateMatrix {
         return result;
     }
 
-    public static int[] reverse(int[] A) {
+    public static void reverse(int[] A) {
         int i = 0;
         int j = A.length - 1;
         while (i <= j) {
@@ -41,6 +41,6 @@ public class Q1RotateMatrix {
             i++;
             j--;
         }
-        return A;
+
     }
 }

@@ -2,7 +2,7 @@ package org.example.Scaler.Day13.Class;
 
 public class Q3MaxOnes {
     public static void main(String[] args) {
-        int[] A = {1, 1, 1, 1, 1, 1, 1, 1};
+        int[] A = {0, 1, 1, 1, 1, 0, 1, 1};
         System.out.println(solve(A));
     }
 

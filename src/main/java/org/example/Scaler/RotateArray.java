@@ -1,43 +1,38 @@
 package org.example.Scaler;
 
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+
 public class RotateArray {
 
     public static void main(String[] args) {
-
-        int[] arr = {1, 2, 3, 4, 5};
-        int k = 2;
-//        int[] result = rotate(arr, arr.length, k);
-//        for (int i = 0; i < result.length; i++) {
-//            System.out.println("result[i] = " + result[i]);
-//        }
-//
-        int[] result2 = optimizeRotate(arr, arr.length, k);
-        for (int i = 0; i < result2.length; i++) {
-            System.out.println("result[i] = " + result2[i]);
+        int[] A = {1, 2, 9, 4, 3};
+        int B = 10;
+        int[] res
+                = target(A, B);
+        for (int el : res) {
+            System.out.println(el + " ");
         }
+
     }
 
-    static int[] rotate(int[] arr, int N, int k) {
+    static int[] target(int[] A, int B) {
 
-        int i, temp;
-        for (int j = 1; j <= k; j++) {
-            temp = arr[N - 1];
-            for (i = N - 1; i >= 1; i--) {
-                arr[i] = arr[i - 1];
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < A.length; i++) {
+            int leftValue = B - A[i];
+
+            if (map.containsKey(leftValue)) {
+                return new int[]{i, map.get(leftValue)};
             }
-            arr[0] = temp;
+            map.put(A[i],i);
         }
-        return arr;
+        return new int[]{-1, -1};
     }
 
-    static int[] optimizeRotate(int[] arr, int N, int k) {
 
-        Arraysss arraysss = new Arraysss();
-        Arraysss.reverse(arr, N, 0, N - 1);
-        Arraysss.reverse(arr, N, 0, k - 1);
-        Arraysss.reverse(arr, N, k, N - 1);
-        return arr;
-    }
 }
 
 
